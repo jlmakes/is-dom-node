@@ -4,4 +4,4 @@
 
 Hello world!
 
-[1.0.0]: https://github.com/jlmakes/tealight/tree/1.0.0
+[1.0.0]: https://github.com/jlmakes/is-dom-node/tree/1.0.0
