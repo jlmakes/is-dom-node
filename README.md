@@ -1,16 +1,8 @@
-<a href="https://travis-ci.org/jlmakes/is-dom-node">
-	<img src="https://img.shields.io/travis/jlmakes/is-dom-node.svg" alt="Build status">
-</a>
-<a href="https://coveralls.io/github/jlmakes/is-dom-node">
-	<img src="https://img.shields.io/coveralls/jlmakes/is-dom-node.svg" alt="Coverage">
-</a>
-<a href="https://www.npmjs.com/package/is-dom-node">
-	<img src="https://img.shields.io/npm/v/is-dom-node.svg" alt="Version">
-</a>
+<a href="https://travis-ci.org/jlmakes/is-dom-node"> <img src="https://img.shields.io/travis/jlmakes/is-dom-node.svg" alt="Build status"> </a>
+<a href="https://coveralls.io/github/jlmakes/is-dom-node"> <img src="https://img.shields.io/coveralls/jlmakes/is-dom-node.svg" alt="Coverage"> </a>
+<a href="https://www.npmjs.com/package/is-dom-node"> <img src="https://img.shields.io/npm/v/is-dom-node.svg" alt="Version"> </a>
 <img src="https://img.shields.io/badge/min+gzip-0.2KB-blue.svg" alt="0.2KB min+gzip">
-<a href="https://github.com/jlmakes/is-dom-node/blob/master/LICENSE">
-	<img src="https://img.shields.io/badge/license-MIT-1283c3.svg" alt="MIT License">
-</a>
+<a href="https://github.com/jlmakes/is-dom-node/blob/master/LICENSE"> <img src="https://img.shields.io/badge/license-MIT-1283c3.svg" alt="MIT License"> </a>
 
 # Installation
 
