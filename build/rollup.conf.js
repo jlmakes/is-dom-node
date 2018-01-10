@@ -4,7 +4,7 @@ import { standard as banner } from './rollup.conf.banner'
 
 export default {
 	banner,
-	input: 'index.js',
+	input: 'src/index.js',
 	plugins: [json(), buble()],
 	output: [
 		{ format: 'umd', file: 'dist/is-dom-node.js', name: 'isDomNode' },

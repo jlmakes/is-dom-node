@@ -1,4 +1,4 @@
-import isDomNode from './index'
+import isDomNode from '../src/index'
 
 describe('isDomNode(target)', () => {
 	it('should return true when passed a Node', () => {
