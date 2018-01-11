@@ -1,4 +1,4 @@
-# `is-dom-node`
+# is-dom-node
 
 <a href="https://travis-ci.org/jlmakes/is-dom-node"> <img src="https://img.shields.io/travis/jlmakes/is-dom-node.svg" alt="Build status"> </a>
 <a href="https://coveralls.io/github/jlmakes/is-dom-node"> <img src="https://img.shields.io/coveralls/jlmakes/is-dom-node.svg" alt="Coverage"> </a>

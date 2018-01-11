@@ -1,5 +1,11 @@
 # Change Log
 
+## Unreleased
+
+### Changed
+
+* Revised readme.
+
 ## [1.0.3] - 2018-01-11
 
 ### Changed
